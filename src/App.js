@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <>
+    <div className='app'>
     <h1>Git hub deployment</h1>
-    </>
+    </div>
   );
 }
 
